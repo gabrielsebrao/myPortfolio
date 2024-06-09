@@ -1,0 +1,24 @@
+.CdPlayer {
+    margin-top: 1.059vw;
+    margin-bottom: 1.059vw;
+    width: 15.186vw;
+}
+
+.CdPlayerDuracaoBarra progress{
+    width: 15.186vw;
+}
+
+.CdPlayerDuracaoTempo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.CdPlayerBotoes {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.CdPlayerBotoes img {
+    height: 3.178vh;
+}
